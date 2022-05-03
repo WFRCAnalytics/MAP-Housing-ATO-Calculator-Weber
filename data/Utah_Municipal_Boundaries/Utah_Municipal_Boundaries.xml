@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Municipalities</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Boundaries.Municipalities is a multi-purpose statewide dataset of municipal boundaries for cartography and approximate boundary identification. Boundaries.Municipalities boundaries are maintained by AGRC with the help of many state, county, and local entities. Changes and updates are through certification by the Lt. Governor’s Office sent in by City and County Recorders offices. Boundary updates are occasionally accepted from local GIS departments when older (pre 2007) relevant boundary change information was not received through required channels. All features are adjusted to the current Geographic Coordinate Database (GCDB) points. Data developed with coordinate geometry (COGO) from legal descriptions were used. When necessary the data was adjusted to conform to known physical features. This dataset does not represent exact legal boundaries, but, rather a set of boundaries used for the administrative purposes that conforms to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent). Data is current thru January 31, 2022. Population Estimates are from July 1,2019.More information can be found on the UGRC data page for this layer:https://gis.utah.gov/data/boundaries/citycountystate/</abstract>
+            <purpose>These data were first created through a cooperative effort of the Governor's Office of Planning and Budget, the Utah Department of Transportation, the Utah State Tax Commission, and UGRC.  All incorporated municipalities in the state through dates varying from 1984 to 1992 were initially represented. Updates for further annexations and disconnections were completed with the cooperative efforts of the State Tax Commission, Property Tax Division, and UGRC, and currentness now ranges from 1993 through the revisions date shown in the metadata with updates from local government where needed to include new incorporations, corrections, and substantially changed boundaries due to annexation.  
+Data developed with coordinate geometry (COGO) from legal descriptions were used.  When necessary the data were adjusted to conform to known physical features. Due to adjustments to resolve conflicting or ambiguous data, the result was more a physical cadastre than a legal one. In other words, this dataset does not represent exact legal boundaries as per surveyed description, but, rather a set of boundaries used for the administrative purposes that conforms to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent).</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-114.104046</westbc>
+                <eastbc>-109.206807</eastbc>
+                <northbc>42.007878</northbc>
+                <southbc>36.974960</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Boundary</themekey>
+                <themekey>Municipalities</themekey>
+                <themekey>Cities</themekey>
+                <themekey>Towns</themekey>
+                <themekey>SGID</themekey>
+                <themekey>UGRC</themekey>
+                <themekey>Boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The data, including but not limited to geographic data, tabular data, and analytical data, are provided &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot;, with no guarantees relating to the availability, completeness, or accuracy of data, and without any express or implied warranties. These data are provided as a public service for informational purposes only. You are solely responsible for obtaining the proper evaluation of a location and associated data by a qualified professional. UGRC reserves the right to change, revise, suspend or discontinue published data and services without notice at any time. Neither UGRC nor the State of Utah are responsible for any misuse or misrepresentation of the data. UGRC and the State of Utah are not obligated to provide you with any maintenance or support. The user assumes the entire risk as to the quality and performance of the data. You agree to hold the State of Utah harmless for any claims, liability, costs, and damages relating to your use of the data. You agree that your sole remedy for any dissatisfaction or claims is to discontinue use of the data.This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <datacred>Cities, Towns and Counties of Utah, AGRC</datacred>
+        <native>Esri ArcGIS 12.9.2.32739</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>0</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Municipalities</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>COUNTYNBR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>COUNTYSEAT</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHORTDESC</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>UPDATED</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>FIPS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ENTITYNBR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SALESTAXID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>IMSCOLOR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MINNAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>POPLASTCENSUS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>UGRCODE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>POPLASTESTIMATE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GNIS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GlobalID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20220410</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

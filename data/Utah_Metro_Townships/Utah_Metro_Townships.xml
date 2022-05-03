@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>MetroTownshipsNEW</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>These data were created for planimetric and cartigraphic display and analysis.Revisions: Metro Townships boundaries are revised as documents are filed with the Lt. Governor's Office.4/18/2017 FIPS codes added for the new metro townships. MUNI_CODE attribute addes as a short ID for muni's that can be used in analysis.Data is current thru Dec. 31, 2020. Population Estimates are from July 1,2019.</abstract>
+            <purpose>These data were first created through a cooperative effort of the Lt. Governor's Office, Salt Lake County, and UGRC. All Metro Townships incorporated as of Jan. 1, 2017 are included.  Updates for further annexations and disconnections will be completed with the cooperative efforts of the  County and UGRC. Data was created from Incorporation documents with coordinate geometry (COGO) from legal descriptions sent to the Lt. Governor's Office, and porcessed by UGRC.  The result was more a physical cadastre than a legal one. In other words, this dataset does not represent exact legal boundaries as per surveyed description, but, rather a set of boundaries used for the administrative purposes that conforms to logical &amp; administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent).</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-112.261323</westbc>
+                <eastbc>-111.686507</eastbc>
+                <northbc>40.835576</northbc>
+                <southbc>40.552277</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Boundary</themekey>
+                <themekey>Boundaries</themekey>
+                <themekey>SGID</themekey>
+                <themekey>UGRC</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The data, including but not limited to geographic data, tabular data, and analytical data, are provided &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot;, with no guarantees relating to the availability, completeness, or accuracy of data, and without any express or implied warranties. These data are provided as a public service for informational purposes only. You are solely responsible for obtaining the proper evaluation of a location and associated data by a qualified professional. UGRC reserves the right to change, revise, suspend or discontinue published data and services without notice at any time. Neither UGRC nor the State of Utah are responsible for any misuse or misrepresentation of the data. UGRC and the State of Utah are not obligated to provide you with any maintenance or support. The user assumes the entire risk as to the quality and performance of the data. You agree to hold the State of Utah harmless for any claims, liability, costs, and damages relating to your use of the data. You agree that your sole remedy for any dissatisfaction or claims is to discontinue use of the data.This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <datacred>Salt Lake County Surveyors Office, AGRC</datacred>
+        <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.1.11595</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>0</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>MetroTownshipsNEW</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>COUNTYNBR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHORTDESC</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>UPDATED</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>FIPS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MINNAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>POPLASTCENSUS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>POPLASTESTIMATE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MUNI_CODE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GlobalID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STArea()</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape.STLength()</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20211206</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

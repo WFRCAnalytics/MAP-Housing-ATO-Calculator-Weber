@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>Freeway and limited access highway interchanges/exits. One point per interchange.</abstract>
+            <purpose>Location of exit numbers, view areas, and rest areas.  Last update: 06/15/2017.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Transportation</themekey>
+                <themekey>Highways</themekey>
+                <themekey>Freeways</themekey>
+                <themekey>Interchanges</themekey>
+                <themekey>Rest Areas</themekey>
+                <themekey>Port of Entry</themekey>
+                <themekey>View Areas</themekey>
+                <themekey>Milepost</themekey>
+                <themekey>SGID</themekey>
+                <themekey>AGRC</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>Blue Stakes of Utah, UDOT</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
